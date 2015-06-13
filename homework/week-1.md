@@ -39,13 +39,11 @@ Jose Garcia - https://github.com/ramonaharrison/meme-ify-me/pull/13
 
 Sarah Kim - https://github.com/Yuliya-Kaleda/meme/pull/1
 
-George Syrimis - https://github.com/Yuliya-Kaleda/meme/pull/5
+George Syrimis - https://github.com/Yuliya-Kaleda/meme/pull/4
 
 Marbella Vidals - https://github.com/personabe1984/Snap-Meme/pull/4
 
 Anthony McBride: https://github.com/personabe1984/Snap-Meme/pull/5
-
-Luke Lee  - https://github.com/personabe1984/Snap-Meme/pull/6
 
 Madelyn Tavarez - https://github.com/tashsmit/Meme5/pull/16
 
@@ -54,3 +52,5 @@ Elvis Boves - https://github.com/tashsmit/Meme5/pull/17
 Anthony Fermin - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/32
 
 Joshelyn Vivas- https://github.com/MadelynTav/MemeProject/pull/24
+
+Na Li - https://github.com/RosmaryFC/Meme-ify-Me-ARHM/pull/33
